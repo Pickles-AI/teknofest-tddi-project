@@ -14,7 +14,7 @@ Bu Jupyter Notebook, **Aspect-Based Sentiment Analysis** (ABSA) modelinin geliş
 Bu dosya, **Duygu Sınıflandırma Modeli**nin eğitimine dair kodları içermektedir. Model, Türkçe metinler üzerinde olumlu, olumsuz ve nötr duygu sınıflandırması yapmak için tasarlanmıştır. Eğitim süreci boyunca kullanılan veri ön işleme teknikleri ve model hiperparametre ayarları bu dosyada ayrıntılı olarak açıklanmaktadır.
 
 #### **Model ve Veri Seti Bilgileri:**
-- Model: [bert-base-turkish-cased-ner](https://huggingface.co/moarslan/bert-base-turkish-cased-ner)
+- Model: [bert-base-turkish-sentiment-analysis](https://huggingface.co/moarslan/bert-base-turkish-sentiment-analysis)
 - Veri Seti: [turkish-sentiment-analysis-dataset](https://huggingface.co/datasets/winvoker/turkish-sentiment-analysis-dataset)
 
 ### 4. `notebooks/turkish-bert-ner-fine-tune.ipynb`
