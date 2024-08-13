@@ -1,8 +1,13 @@
-Bu repo, çeşitli doğal dil işleme (NLP) modellerinin eğitim süreçlerini ve bu modellerin API olarak sunulmasını içeren kodları barındırmaktadır. Projede yer alan her bir dosya, belirli bir NLP görevi için özel olarak hazırlanmış olup, bu görevlerin nasıl gerçekleştirileceğine dair kapsamlı örnekler sunmaktadır.
-
 ![pickles_ai](https://github.com/user-attachments/assets/c9038fba-f6fa-49a5-882a-c77482a904da)
 
+- **Danışman:** [Muhammed Cihat Ünal](https://www.linkedin.com/in/mchtunl/)
+- **Takım Kaptanı:** [Osman Kağan Kurnaz](https://www.linkedin.com/in/osmankagankurnaz/)
+- **Takım Üyesi:** [Mustafa Oktay Arslan](https://www.linkedin.com/in/mustafa-oktay-arslan-27b6a8238/)
+- **Takım Üyesi:** [Doğan Eren Özer](https://www.linkedin.com/in/eren-%C3%B6zer/)
+
 # İçerik
+
+Bu repo, çeşitli doğal dil işleme (NLP) modellerinin eğitim süreçlerini ve bu modellerin API olarak sunulmasını içeren kodları barındırmaktadır. Projede yer alan her bir dosya, belirli bir NLP görevi için özel olarak hazırlanmış olup, bu görevlerin nasıl gerçekleştirileceğine dair kapsamlı örnekler sunmaktadır.
 
 ## 1. `main.py`
 
